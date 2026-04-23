@@ -1,0 +1,9 @@
+{
+  "id": "cloze-plus",
+  "name": "Cloze Plus",
+  "version": "1.0",
+  "minAppVersion": "0.15.0",
+  "description": "Enhanced cloze plugin with learning mode, review mode, and FSRS-5 spaced repetition.",
+  "author": "https://github.com/fireflysss",
+  "isDesktopOnly": false
+}
