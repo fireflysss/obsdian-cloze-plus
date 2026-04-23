@@ -1,6 +1,7 @@
 # obsdian-cloze-plus
 obsdian插件，填空加强，包含学习模式，复习模式，记忆曲线复习模式
-我觉得anki卡片是的学习太松散，也不适合记忆，特别是在背诵一些重点讲义的时候，记忆往往是一个整体，而非卡片，因此通过AI，烧了很多tokens制作了这个适合整体复习的填空遮挡软件，另外是咋https://github.com/DearVikki/obsidian-cloze-plugin进行了个人改进，感谢作者DearVikki
+我觉得anki卡片是的学习太松散，也不适合记忆，特别是在背诵一些重点讲义的时候，记忆往往是一个整体，而非卡片，因此通过AI，烧了很多tokens制作了这个适合整体复习的填空遮挡软件，另外这个是在https://github.com/DearVikki/obsidian-cloze-plugin进行了个人改进
+感谢作者DearVikki
 
 # Cloze Plus介绍
 
